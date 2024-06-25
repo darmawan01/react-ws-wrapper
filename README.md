@@ -1,5 +1,7 @@
 # React Websocket Wrapper
 
+This package was fit combined with this Golang [ws-wrapper](https://github.com/darmawan01/ws-wrapper) package.
+
 ## Installation
 
 ```bash

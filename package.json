@@ -1,6 +1,6 @@
 {
   "name": "react-ws-wrapper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The websocket provider to centralized the ws connection & data distribution to the component that listen to the data",
   "main": "index.ts",
   "scripts": {
