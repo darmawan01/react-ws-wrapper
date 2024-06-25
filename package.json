@@ -1,0 +1,29 @@
+{
+  "name": "react-ws-wrapper",
+  "version": "1.0.0",
+  "description": "The websocket provider to centralized the ws connection & data distribution to the component that listen to the data",
+  "main": "index.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darmawan01/react-ws-wrapper.git"
+  },
+  "keywords": [
+    "websocket",
+    "react",
+    "typescript"
+  ],
+  "author": "darmawan01",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/darmawan01/react-ws-wrapper/issues"
+  },
+  "homepage": "https://github.com/darmawan01/react-ws-wrapper#readme",
+  "dependencies": {
+    "@types/node": "^20.14.8",
+    "@types/react": "^18.3.3",
+    "react": "^18.3.1"
+  }
+}
