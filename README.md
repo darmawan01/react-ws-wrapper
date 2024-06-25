@@ -59,3 +59,5 @@ export function ChildComponent() {
   );
 }
 ```
+
+See the example for more detail!
